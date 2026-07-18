@@ -1,0 +1,49 @@
+release_id,product_module,release_name,planned_date,actual_date,status,team_size
+REL-1000,Fleet Tracking,Fleet Tracking v1.0,2025-01-06,2025-01-06,On-Time,8
+REL-1001,Driver Mobile App,Driver Mobile App v1.1,2025-01-13,2025-01-13,On-Time,8
+REL-1002,Admin Web Dashboard,Admin Web Dashboard v1.2,2025-01-20,2025-01-20,On-Time,5
+REL-1003,IoT Sensor Hub,IoT Sensor Hub v1.3,2025-01-27,2025-01-27,On-Time,6
+REL-1004,Billing Portal,Billing Portal v1.4,2025-02-03,2025-02-03,On-Time,8
+REL-1005,Fleet Tracking,Fleet Tracking v2.0,2025-02-10,2025-02-10,On-Time,6
+REL-1006,Driver Mobile App,Driver Mobile App v2.1,2025-02-17,2025-02-17,On-Time,5
+REL-1007,Admin Web Dashboard,Admin Web Dashboard v2.2,2025-02-24,2025-02-24,On-Time,9
+REL-1008,IoT Sensor Hub,IoT Sensor Hub v2.3,2025-03-03,2025-03-03,On-Time,7
+REL-1009,Billing Portal,Billing Portal v2.4,2025-03-10,2025-03-10,On-Time,7
+REL-1010,Fleet Tracking,Fleet Tracking v3.0,2025-03-17,2025-03-17,On-Time,8
+REL-1011,Driver Mobile App,Driver Mobile App v3.1,2025-03-24,2025-03-24,On-Time,4
+REL-1012,Admin Web Dashboard,Admin Web Dashboard v3.2,2025-03-31,2025-03-31,On-Time,5
+REL-1013,IoT Sensor Hub,IoT Sensor Hub v3.3,2025-04-07,2025-04-07,On-Time,7
+REL-1014,Billing Portal,Billing Portal v3.4,2025-04-14,2025-04-14,On-Time,9
+REL-1015,Fleet Tracking,Fleet Tracking v4.0,2025-04-21,2025-04-21,On-Time,9
+REL-1016,Driver Mobile App,Driver Mobile App v4.1,2025-04-28,2025-04-28,On-Time,7
+REL-1017,Admin Web Dashboard,Admin Web Dashboard v4.2,2025-05-05,2025-05-05,On-Time,6
+REL-1018,IoT Sensor Hub,IoT Sensor Hub v4.3,2025-05-12,2025-05-12,On-Time,8
+REL-1019,Billing Portal,Billing Portal v4.4,2025-05-19,2025-05-19,On-Time,5
+REL-1020,Fleet Tracking,Fleet Tracking v5.0,2025-05-26,2025-05-31,Delayed,9
+REL-1021,Driver Mobile App,Driver Mobile App v5.1,2025-06-02,2025-06-02,On-Time,4
+REL-1022,Admin Web Dashboard,Admin Web Dashboard v5.2,2025-06-09,2025-06-09,On-Time,5
+REL-1023,IoT Sensor Hub,IoT Sensor Hub v5.3,2025-06-16,2025-06-16,On-Time,7
+REL-1024,Billing Portal,Billing Portal v5.4,2025-06-23,2025-06-23,On-Time,8
+REL-1025,Fleet Tracking,Fleet Tracking v6.0,2025-06-30,2025-06-30,On-Time,6
+REL-1026,Driver Mobile App,Driver Mobile App v6.1,2025-07-07,2025-07-12,Delayed,5
+REL-1027,Admin Web Dashboard,Admin Web Dashboard v6.2,2025-07-14,2025-07-14,On-Time,5
+REL-1028,IoT Sensor Hub,IoT Sensor Hub v6.3,2025-07-21,2025-07-21,On-Time,9
+REL-1029,Billing Portal,Billing Portal v6.4,2025-07-28,2025-07-28,On-Time,9
+REL-1030,Fleet Tracking,Fleet Tracking v7.0,2025-08-04,2025-08-04,On-Time,5
+REL-1031,Driver Mobile App,Driver Mobile App v7.1,2025-08-11,2025-08-11,On-Time,5
+REL-1032,Admin Web Dashboard,Admin Web Dashboard v7.2,2025-08-18,2025-08-18,On-Time,7
+REL-1033,IoT Sensor Hub,IoT Sensor Hub v7.3,2025-08-25,2025-08-25,On-Time,9
+REL-1034,Billing Portal,Billing Portal v7.4,2025-09-01,2025-09-01,On-Time,4
+REL-1035,Fleet Tracking,Fleet Tracking v8.0,2025-09-08,2025-09-14,Delayed,8
+REL-1036,Driver Mobile App,Driver Mobile App v8.1,2025-09-15,2025-09-15,On-Time,8
+REL-1037,Admin Web Dashboard,Admin Web Dashboard v8.2,2025-09-22,2025-09-22,On-Time,4
+REL-1038,IoT Sensor Hub,IoT Sensor Hub v8.3,2025-09-29,2025-09-29,On-Time,7
+REL-1039,Billing Portal,Billing Portal v8.4,2025-10-06,2025-10-06,On-Time,8
+REL-1040,Fleet Tracking,Fleet Tracking v9.0,2025-10-13,2025-10-13,On-Time,4
+REL-1041,Driver Mobile App,Driver Mobile App v9.1,2025-10-20,2025-10-20,On-Time,4
+REL-1042,Admin Web Dashboard,Admin Web Dashboard v9.2,2025-10-27,2025-10-27,On-Time,7
+REL-1043,IoT Sensor Hub,IoT Sensor Hub v9.3,2025-11-03,2025-11-03,On-Time,6
+REL-1044,Billing Portal,Billing Portal v9.4,2025-11-10,2025-11-10,On-Time,6
+REL-1045,Fleet Tracking,Fleet Tracking v10.0,2025-11-17,2025-11-17,On-Time,6
+REL-1046,Driver Mobile App,Driver Mobile App v10.1,2025-11-24,2025-11-24,On-Time,5
+REL-1047,Admin Web Dashboard,Admin Web Dashboard v10.2,2025-12-01,2025-12-01,On-Time,4

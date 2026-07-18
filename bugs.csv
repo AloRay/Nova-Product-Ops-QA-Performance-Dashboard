@@ -1,0 +1,682 @@
+bug_id,release_id,module,severity,reported_date,resolved_date,status,resolution_days
+BUG-2001,REL-1000,Fleet Tracking,Medium,06/01/2025,11/01/2025,Resolved,5
+BUG-2002,REL-1000,Fleet Tracking,Medium,13/01/2025,18/01/2025,Resolved,5
+BUG-2003,REL-1000,Fleet Tracking,Medium,08/01/2025,14/01/2025,Resolved,6
+BUG-2004,REL-1000,Fleet Tracking,Medium,12/01/2025,16/01/2025,Resolved,4
+BUG-2005,REL-1000,Fleet Tracking,Medium,15/01/2025,21/01/2025,Resolved,6
+BUG-2006,REL-1000,Fleet Tracking,Medium,10/01/2025,15/01/2025,Resolved,5
+BUG-2007,REL-1000,Fleet Tracking,Medium,09/01/2025,15/01/2025,Resolved,6
+BUG-2008,REL-1000,Fleet Tracking,Low,15/01/2025,27/01/2025,Resolved,12
+BUG-2009,REL-1000,Fleet Tracking,Medium,11/01/2025,13/01/2025,Resolved,2
+BUG-2010,REL-1000,Fleet Tracking,Low,15/01/2025,24/01/2025,Resolved,9
+BUG-2011,REL-1000,Fleet Tracking,Medium,06/01/2025,14/01/2025,Resolved,8
+BUG-2012,REL-1000,Fleet Tracking,Medium,08/01/2025,10/01/2025,Resolved,2
+BUG-2013,REL-1000,Fleet Tracking,Medium,14/01/2025,24/01/2025,Resolved,10
+BUG-2014,REL-1000,Fleet Tracking,High,11/01/2025,13/01/2025,Resolved,2
+BUG-2015,REL-1000,Fleet Tracking,Medium,09/01/2025,,Open,
+BUG-2016,REL-1000,Fleet Tracking,High,07/01/2025,09/01/2025,Resolved,2
+BUG-2017,REL-1000,Fleet Tracking,High,13/01/2025,16/01/2025,Resolved,3
+BUG-2018,REL-1001,Driver Mobile App,Critical,13/01/2025,13/01/2025,Resolved,0
+BUG-2019,REL-1001,Driver Mobile App,Medium,17/01/2025,23/01/2025,Resolved,6
+BUG-2020,REL-1001,Driver Mobile App,Medium,20/01/2025,25/01/2025,Resolved,5
+BUG-2021,REL-1001,Driver Mobile App,Medium,20/01/2025,26/01/2025,Resolved,6
+BUG-2022,REL-1001,Driver Mobile App,Low,13/01/2025,22/01/2025,Resolved,9
+BUG-2023,REL-1001,Driver Mobile App,Medium,15/01/2025,25/01/2025,Resolved,10
+BUG-2024,REL-1001,Driver Mobile App,Medium,15/01/2025,23/01/2025,Resolved,8
+BUG-2025,REL-1001,Driver Mobile App,High,21/01/2025,,Open,
+BUG-2026,REL-1001,Driver Mobile App,High,21/01/2025,25/01/2025,Resolved,4
+BUG-2027,REL-1001,Driver Mobile App,Low,22/01/2025,04/02/2025,Resolved,13
+BUG-2028,REL-1001,Driver Mobile App,Medium,13/01/2025,16/01/2025,Resolved,3
+BUG-2029,REL-1001,Driver Mobile App,High,17/01/2025,20/01/2025,Resolved,3
+BUG-2030,REL-1001,Driver Mobile App,Medium,15/01/2025,22/01/2025,Resolved,7
+BUG-2031,REL-1001,Driver Mobile App,Medium,13/01/2025,17/01/2025,Resolved,4
+BUG-2032,REL-1001,Driver Mobile App,Low,16/01/2025,26/01/2025,Resolved,10
+BUG-2033,REL-1002,Admin Web Dashboard,Medium,21/01/2025,27/01/2025,Resolved,6
+BUG-2034,REL-1002,Admin Web Dashboard,Medium,28/01/2025,31/01/2025,Resolved,3
+BUG-2035,REL-1002,Admin Web Dashboard,Critical,24/01/2025,24/01/2025,Resolved,0
+BUG-2036,REL-1002,Admin Web Dashboard,Medium,20/01/2025,23/01/2025,Resolved,3
+BUG-2037,REL-1002,Admin Web Dashboard,Medium,25/01/2025,,Open,
+BUG-2038,REL-1002,Admin Web Dashboard,Medium,25/01/2025,29/01/2025,Resolved,4
+BUG-2039,REL-1002,Admin Web Dashboard,Medium,24/01/2025,05/02/2025,Resolved,12
+BUG-2040,REL-1002,Admin Web Dashboard,High,22/01/2025,25/01/2025,Resolved,3
+BUG-2041,REL-1002,Admin Web Dashboard,Low,20/01/2025,29/01/2025,Resolved,9
+BUG-2042,REL-1002,Admin Web Dashboard,Low,28/01/2025,,Open,
+BUG-2043,REL-1002,Admin Web Dashboard,Medium,24/01/2025,30/01/2025,Resolved,6
+BUG-2044,REL-1002,Admin Web Dashboard,Medium,26/01/2025,01/02/2025,Resolved,6
+BUG-2045,REL-1002,Admin Web Dashboard,Medium,21/01/2025,28/01/2025,Resolved,7
+BUG-2046,REL-1002,Admin Web Dashboard,Medium,27/01/2025,02/02/2025,Resolved,6
+BUG-2047,REL-1002,Admin Web Dashboard,Medium,26/01/2025,01/02/2025,Resolved,6
+BUG-2048,REL-1002,Admin Web Dashboard,Medium,20/01/2025,23/01/2025,Resolved,3
+BUG-2049,REL-1002,Admin Web Dashboard,Medium,26/01/2025,03/02/2025,Resolved,8
+BUG-2050,REL-1002,Admin Web Dashboard,Low,29/01/2025,05/02/2025,Resolved,7
+BUG-2051,REL-1003,IoT Sensor Hub,Low,27/01/2025,05/02/2025,Resolved,9
+BUG-2052,REL-1003,IoT Sensor Hub,Low,28/01/2025,04/02/2025,Resolved,7
+BUG-2053,REL-1003,IoT Sensor Hub,Medium,01/02/2025,,Open,
+BUG-2054,REL-1003,IoT Sensor Hub,Low,05/02/2025,13/02/2025,Resolved,8
+BUG-2055,REL-1003,IoT Sensor Hub,Critical,01/02/2025,02/02/2025,Resolved,1
+BUG-2056,REL-1003,IoT Sensor Hub,Low,31/01/2025,02/02/2025,Resolved,2
+BUG-2057,REL-1003,IoT Sensor Hub,Low,30/01/2025,15/02/2025,Resolved,16
+BUG-2058,REL-1003,IoT Sensor Hub,High,28/01/2025,30/01/2025,Resolved,2
+BUG-2059,REL-1003,IoT Sensor Hub,Medium,27/01/2025,29/01/2025,Resolved,2
+BUG-2060,REL-1003,IoT Sensor Hub,High,05/02/2025,,Open,
+BUG-2061,REL-1003,IoT Sensor Hub,Low,04/02/2025,12/02/2025,Resolved,8
+BUG-2062,REL-1003,IoT Sensor Hub,Medium,01/02/2025,07/02/2025,Resolved,6
+BUG-2063,REL-1003,IoT Sensor Hub,Medium,31/01/2025,06/02/2025,Resolved,6
+BUG-2064,REL-1004,Billing Portal,Medium,09/02/2025,20/02/2025,Resolved,11
+BUG-2065,REL-1004,Billing Portal,Medium,05/02/2025,10/02/2025,Resolved,5
+BUG-2066,REL-1004,Billing Portal,Medium,09/02/2025,19/02/2025,Resolved,10
+BUG-2067,REL-1004,Billing Portal,Medium,07/02/2025,16/02/2025,Resolved,9
+BUG-2068,REL-1004,Billing Portal,Critical,12/02/2025,12/02/2025,Resolved,0
+BUG-2069,REL-1004,Billing Portal,Medium,03/02/2025,13/02/2025,Resolved,10
+BUG-2070,REL-1004,Billing Portal,Low,04/02/2025,15/02/2025,Resolved,11
+BUG-2071,REL-1004,Billing Portal,Medium,06/02/2025,07/02/2025,Resolved,1
+BUG-2072,REL-1004,Billing Portal,Medium,05/02/2025,14/02/2025,Resolved,9
+BUG-2073,REL-1004,Billing Portal,Medium,03/02/2025,09/02/2025,Resolved,6
+BUG-2074,REL-1004,Billing Portal,Medium,12/02/2025,16/02/2025,Resolved,4
+BUG-2075,REL-1004,Billing Portal,Medium,05/02/2025,09/02/2025,Resolved,4
+BUG-2076,REL-1004,Billing Portal,Medium,10/02/2025,15/02/2025,Resolved,5
+BUG-2077,REL-1004,Billing Portal,Low,11/02/2025,12/02/2025,Resolved,1
+BUG-2078,REL-1005,Fleet Tracking,Low,13/02/2025,28/02/2025,Resolved,15
+BUG-2079,REL-1005,Fleet Tracking,Low,17/02/2025,27/02/2025,Resolved,10
+BUG-2080,REL-1005,Fleet Tracking,Medium,16/02/2025,24/02/2025,Resolved,8
+BUG-2081,REL-1005,Fleet Tracking,High,10/02/2025,12/02/2025,Resolved,2
+BUG-2082,REL-1005,Fleet Tracking,High,12/02/2025,18/02/2025,Resolved,6
+BUG-2083,REL-1005,Fleet Tracking,Critical,18/02/2025,,Open,
+BUG-2084,REL-1005,Fleet Tracking,Medium,13/02/2025,21/02/2025,Resolved,8
+BUG-2085,REL-1005,Fleet Tracking,Medium,14/02/2025,20/02/2025,Resolved,6
+BUG-2086,REL-1005,Fleet Tracking,High,14/02/2025,16/02/2025,Resolved,2
+BUG-2087,REL-1005,Fleet Tracking,Low,14/02/2025,21/02/2025,Resolved,7
+BUG-2088,REL-1005,Fleet Tracking,Medium,16/02/2025,21/02/2025,Resolved,5
+BUG-2089,REL-1005,Fleet Tracking,Medium,18/02/2025,25/02/2025,Resolved,7
+BUG-2090,REL-1006,Driver Mobile App,Medium,24/02/2025,05/03/2025,Resolved,9
+BUG-2091,REL-1006,Driver Mobile App,Low,26/02/2025,08/03/2025,Resolved,10
+BUG-2092,REL-1006,Driver Mobile App,Medium,17/02/2025,20/02/2025,Resolved,3
+BUG-2093,REL-1006,Driver Mobile App,High,23/02/2025,25/02/2025,Resolved,2
+BUG-2094,REL-1006,Driver Mobile App,Medium,26/02/2025,03/03/2025,Resolved,5
+BUG-2095,REL-1006,Driver Mobile App,High,19/02/2025,21/02/2025,Resolved,2
+BUG-2096,REL-1006,Driver Mobile App,Medium,24/02/2025,26/02/2025,Resolved,2
+BUG-2097,REL-1006,Driver Mobile App,Medium,17/02/2025,20/02/2025,Resolved,3
+BUG-2098,REL-1006,Driver Mobile App,Medium,25/02/2025,04/03/2025,Resolved,7
+BUG-2099,REL-1006,Driver Mobile App,High,22/02/2025,22/02/2025,Resolved,0
+BUG-2100,REL-1006,Driver Mobile App,Low,21/02/2025,05/03/2025,Resolved,12
+BUG-2101,REL-1006,Driver Mobile App,Medium,25/02/2025,08/03/2025,Resolved,11
+BUG-2102,REL-1006,Driver Mobile App,Medium,21/02/2025,27/02/2025,Resolved,6
+BUG-2103,REL-1006,Driver Mobile App,Medium,23/02/2025,06/03/2025,Resolved,11
+BUG-2104,REL-1006,Driver Mobile App,High,26/02/2025,28/02/2025,Resolved,2
+BUG-2105,REL-1006,Driver Mobile App,High,21/02/2025,24/02/2025,Resolved,3
+BUG-2106,REL-1007,Admin Web Dashboard,Medium,26/02/2025,08/03/2025,Resolved,10
+BUG-2107,REL-1007,Admin Web Dashboard,Low,28/02/2025,,Open,
+BUG-2108,REL-1007,Admin Web Dashboard,Low,28/02/2025,17/03/2025,Resolved,17
+BUG-2109,REL-1007,Admin Web Dashboard,Medium,24/02/2025,02/03/2025,Resolved,6
+BUG-2110,REL-1007,Admin Web Dashboard,Medium,04/03/2025,,Open,
+BUG-2111,REL-1007,Admin Web Dashboard,Low,24/02/2025,24/02/2025,Resolved,0
+BUG-2112,REL-1007,Admin Web Dashboard,Critical,01/03/2025,01/03/2025,Resolved,0
+BUG-2113,REL-1007,Admin Web Dashboard,Medium,28/02/2025,06/03/2025,Resolved,6
+BUG-2114,REL-1007,Admin Web Dashboard,Low,05/03/2025,15/03/2025,Resolved,10
+BUG-2115,REL-1007,Admin Web Dashboard,High,04/03/2025,05/03/2025,Resolved,1
+BUG-2116,REL-1007,Admin Web Dashboard,Medium,03/03/2025,10/03/2025,Resolved,7
+BUG-2117,REL-1007,Admin Web Dashboard,Medium,01/03/2025,07/03/2025,Resolved,6
+BUG-2118,REL-1007,Admin Web Dashboard,Medium,28/02/2025,09/03/2025,Resolved,9
+BUG-2119,REL-1008,IoT Sensor Hub,Medium,09/03/2025,16/03/2025,Resolved,7
+BUG-2120,REL-1008,IoT Sensor Hub,High,08/03/2025,12/03/2025,Resolved,4
+BUG-2121,REL-1008,IoT Sensor Hub,Low,04/03/2025,07/03/2025,Resolved,3
+BUG-2122,REL-1008,IoT Sensor Hub,Low,06/03/2025,21/03/2025,Resolved,15
+BUG-2123,REL-1008,IoT Sensor Hub,Medium,09/03/2025,19/03/2025,Resolved,10
+BUG-2124,REL-1008,IoT Sensor Hub,Medium,03/03/2025,09/03/2025,Resolved,6
+BUG-2125,REL-1008,IoT Sensor Hub,High,10/03/2025,13/03/2025,Resolved,3
+BUG-2126,REL-1008,IoT Sensor Hub,High,05/03/2025,07/03/2025,Resolved,2
+BUG-2127,REL-1008,IoT Sensor Hub,Medium,08/03/2025,11/03/2025,Resolved,3
+BUG-2128,REL-1008,IoT Sensor Hub,Medium,05/03/2025,12/03/2025,Resolved,7
+BUG-2129,REL-1008,IoT Sensor Hub,Low,12/03/2025,24/03/2025,Resolved,12
+BUG-2130,REL-1008,IoT Sensor Hub,Medium,08/03/2025,12/03/2025,Resolved,4
+BUG-2131,REL-1008,IoT Sensor Hub,High,11/03/2025,14/03/2025,Resolved,3
+BUG-2132,REL-1008,IoT Sensor Hub,Medium,11/03/2025,16/03/2025,Resolved,5
+BUG-2133,REL-1008,IoT Sensor Hub,Medium,08/03/2025,16/03/2025,Resolved,8
+BUG-2134,REL-1008,IoT Sensor Hub,High,10/03/2025,12/03/2025,Resolved,2
+BUG-2135,REL-1008,IoT Sensor Hub,Medium,09/03/2025,19/03/2025,Resolved,10
+BUG-2136,REL-1008,IoT Sensor Hub,High,05/03/2025,08/03/2025,Resolved,3
+BUG-2137,REL-1008,IoT Sensor Hub,Low,04/03/2025,20/03/2025,Resolved,16
+BUG-2138,REL-1008,IoT Sensor Hub,High,07/03/2025,07/03/2025,Resolved,0
+BUG-2139,REL-1009,Billing Portal,Medium,16/03/2025,22/03/2025,Resolved,6
+BUG-2140,REL-1009,Billing Portal,Medium,18/03/2025,21/03/2025,Resolved,3
+BUG-2141,REL-1009,Billing Portal,Low,11/03/2025,21/03/2025,Resolved,10
+BUG-2142,REL-1009,Billing Portal,Medium,10/03/2025,13/03/2025,Resolved,3
+BUG-2143,REL-1009,Billing Portal,Medium,14/03/2025,23/03/2025,Resolved,9
+BUG-2144,REL-1009,Billing Portal,Medium,15/03/2025,17/03/2025,Resolved,2
+BUG-2145,REL-1009,Billing Portal,High,15/03/2025,17/03/2025,Resolved,2
+BUG-2146,REL-1009,Billing Portal,Low,17/03/2025,21/03/2025,Resolved,4
+BUG-2147,REL-1009,Billing Portal,High,12/03/2025,15/03/2025,Resolved,3
+BUG-2148,REL-1009,Billing Portal,Low,17/03/2025,27/03/2025,Resolved,10
+BUG-2149,REL-1009,Billing Portal,Low,11/03/2025,29/03/2025,Resolved,18
+BUG-2150,REL-1009,Billing Portal,Low,15/03/2025,,Open,
+BUG-2151,REL-1009,Billing Portal,Medium,13/03/2025,15/03/2025,Resolved,2
+BUG-2152,REL-1009,Billing Portal,Medium,15/03/2025,21/03/2025,Resolved,6
+BUG-2153,REL-1009,Billing Portal,High,13/03/2025,17/03/2025,Resolved,4
+BUG-2154,REL-1009,Billing Portal,Medium,14/03/2025,15/03/2025,Resolved,1
+BUG-2155,REL-1010,Fleet Tracking,Medium,18/03/2025,29/03/2025,Resolved,11
+BUG-2156,REL-1010,Fleet Tracking,High,21/03/2025,23/03/2025,Resolved,2
+BUG-2157,REL-1010,Fleet Tracking,Low,21/03/2025,31/03/2025,Resolved,10
+BUG-2158,REL-1010,Fleet Tracking,Critical,24/03/2025,25/03/2025,Resolved,1
+BUG-2159,REL-1010,Fleet Tracking,Critical,24/03/2025,25/03/2025,Resolved,1
+BUG-2160,REL-1010,Fleet Tracking,Low,21/03/2025,02/04/2025,Resolved,12
+BUG-2161,REL-1010,Fleet Tracking,Medium,26/03/2025,31/03/2025,Resolved,5
+BUG-2162,REL-1010,Fleet Tracking,Medium,24/03/2025,31/03/2025,Resolved,7
+BUG-2163,REL-1010,Fleet Tracking,Medium,19/03/2025,26/03/2025,Resolved,7
+BUG-2164,REL-1010,Fleet Tracking,Medium,17/03/2025,28/03/2025,Resolved,11
+BUG-2165,REL-1010,Fleet Tracking,Medium,21/03/2025,27/03/2025,Resolved,6
+BUG-2166,REL-1011,Driver Mobile App,Medium,26/03/2025,02/04/2025,Resolved,7
+BUG-2167,REL-1011,Driver Mobile App,High,24/03/2025,28/03/2025,Resolved,4
+BUG-2168,REL-1011,Driver Mobile App,High,24/03/2025,27/03/2025,Resolved,3
+BUG-2169,REL-1011,Driver Mobile App,Low,24/03/2025,03/04/2025,Resolved,10
+BUG-2170,REL-1011,Driver Mobile App,Low,24/03/2025,01/04/2025,Resolved,8
+BUG-2171,REL-1011,Driver Mobile App,Medium,27/03/2025,07/04/2025,Resolved,11
+BUG-2172,REL-1011,Driver Mobile App,Medium,27/03/2025,30/03/2025,Resolved,3
+BUG-2173,REL-1011,Driver Mobile App,Medium,26/03/2025,01/04/2025,Resolved,6
+BUG-2174,REL-1011,Driver Mobile App,Medium,02/04/2025,12/04/2025,Resolved,10
+BUG-2175,REL-1011,Driver Mobile App,High,30/03/2025,02/04/2025,Resolved,3
+BUG-2176,REL-1011,Driver Mobile App,Medium,25/03/2025,30/03/2025,Resolved,5
+BUG-2177,REL-1011,Driver Mobile App,Critical,27/03/2025,27/03/2025,Resolved,0
+BUG-2178,REL-1011,Driver Mobile App,Critical,31/03/2025,01/04/2025,Resolved,1
+BUG-2179,REL-1011,Driver Mobile App,Low,24/03/2025,13/04/2025,Resolved,20
+BUG-2180,REL-1011,Driver Mobile App,Critical,01/04/2025,02/04/2025,Resolved,1
+BUG-2181,REL-1012,Admin Web Dashboard,Critical,08/04/2025,08/04/2025,Resolved,0
+BUG-2182,REL-1012,Admin Web Dashboard,Low,06/04/2025,12/04/2025,Resolved,6
+BUG-2183,REL-1012,Admin Web Dashboard,Medium,31/03/2025,04/04/2025,Resolved,4
+BUG-2184,REL-1012,Admin Web Dashboard,High,08/04/2025,11/04/2025,Resolved,3
+BUG-2185,REL-1012,Admin Web Dashboard,Medium,07/04/2025,15/04/2025,Resolved,8
+BUG-2186,REL-1012,Admin Web Dashboard,High,01/04/2025,03/04/2025,Resolved,2
+BUG-2187,REL-1012,Admin Web Dashboard,High,03/04/2025,08/04/2025,Resolved,5
+BUG-2188,REL-1012,Admin Web Dashboard,Medium,07/04/2025,09/04/2025,Resolved,2
+BUG-2189,REL-1012,Admin Web Dashboard,Medium,06/04/2025,15/04/2025,Resolved,9
+BUG-2190,REL-1012,Admin Web Dashboard,Medium,31/03/2025,05/04/2025,Resolved,5
+BUG-2191,REL-1012,Admin Web Dashboard,Medium,07/04/2025,09/04/2025,Resolved,2
+BUG-2192,REL-1012,Admin Web Dashboard,Medium,05/04/2025,12/04/2025,Resolved,7
+BUG-2193,REL-1012,Admin Web Dashboard,Medium,05/04/2025,10/04/2025,Resolved,5
+BUG-2194,REL-1012,Admin Web Dashboard,Critical,02/04/2025,03/04/2025,Resolved,1
+BUG-2195,REL-1012,Admin Web Dashboard,High,01/04/2025,03/04/2025,Resolved,2
+BUG-2196,REL-1012,Admin Web Dashboard,Medium,07/04/2025,12/04/2025,Resolved,5
+BUG-2197,REL-1012,Admin Web Dashboard,High,07/04/2025,10/04/2025,Resolved,3
+BUG-2198,REL-1012,Admin Web Dashboard,Medium,04/04/2025,06/04/2025,Resolved,2
+BUG-2199,REL-1013,IoT Sensor Hub,Medium,14/04/2025,19/04/2025,Resolved,5
+BUG-2200,REL-1013,IoT Sensor Hub,Low,10/04/2025,,Open,
+BUG-2201,REL-1013,IoT Sensor Hub,High,13/04/2025,13/04/2025,Resolved,0
+BUG-2202,REL-1013,IoT Sensor Hub,Low,10/04/2025,27/04/2025,Resolved,17
+BUG-2203,REL-1013,IoT Sensor Hub,Low,09/04/2025,12/04/2025,Resolved,3
+BUG-2204,REL-1013,IoT Sensor Hub,Medium,15/04/2025,22/04/2025,Resolved,7
+BUG-2205,REL-1013,IoT Sensor Hub,High,10/04/2025,,Open,
+BUG-2206,REL-1013,IoT Sensor Hub,Medium,07/04/2025,10/04/2025,Resolved,3
+BUG-2207,REL-1013,IoT Sensor Hub,Medium,15/04/2025,26/04/2025,Resolved,11
+BUG-2208,REL-1013,IoT Sensor Hub,High,10/04/2025,13/04/2025,Resolved,3
+BUG-2209,REL-1014,Billing Portal,High,19/04/2025,20/04/2025,Resolved,1
+BUG-2210,REL-1014,Billing Portal,Medium,23/04/2025,30/04/2025,Resolved,7
+BUG-2211,REL-1014,Billing Portal,High,19/04/2025,22/04/2025,Resolved,3
+BUG-2212,REL-1014,Billing Portal,Medium,20/04/2025,28/04/2025,Resolved,8
+BUG-2213,REL-1014,Billing Portal,Low,18/04/2025,29/04/2025,Resolved,11
+BUG-2214,REL-1014,Billing Portal,High,14/04/2025,14/04/2025,Resolved,0
+BUG-2215,REL-1014,Billing Portal,Medium,23/04/2025,30/04/2025,Resolved,7
+BUG-2216,REL-1014,Billing Portal,Medium,19/04/2025,24/04/2025,Resolved,5
+BUG-2217,REL-1014,Billing Portal,Medium,19/04/2025,24/04/2025,Resolved,5
+BUG-2218,REL-1014,Billing Portal,Medium,16/04/2025,19/04/2025,Resolved,3
+BUG-2219,REL-1014,Billing Portal,Critical,15/04/2025,15/04/2025,Resolved,0
+BUG-2220,REL-1015,Fleet Tracking,Medium,29/04/2025,10/05/2025,Resolved,11
+BUG-2221,REL-1015,Fleet Tracking,Medium,29/04/2025,06/05/2025,Resolved,7
+BUG-2222,REL-1015,Fleet Tracking,Medium,26/04/2025,30/04/2025,Resolved,4
+BUG-2223,REL-1015,Fleet Tracking,Medium,21/04/2025,23/04/2025,Resolved,2
+BUG-2224,REL-1015,Fleet Tracking,Low,28/04/2025,07/05/2025,Resolved,9
+BUG-2225,REL-1015,Fleet Tracking,Low,25/04/2025,08/05/2025,Resolved,13
+BUG-2226,REL-1015,Fleet Tracking,Medium,30/04/2025,07/05/2025,Resolved,7
+BUG-2227,REL-1015,Fleet Tracking,Medium,30/04/2025,02/05/2025,Resolved,2
+BUG-2228,REL-1015,Fleet Tracking,High,27/04/2025,03/05/2025,Resolved,6
+BUG-2229,REL-1015,Fleet Tracking,Low,22/04/2025,07/05/2025,Resolved,15
+BUG-2230,REL-1015,Fleet Tracking,Critical,23/04/2025,23/04/2025,Resolved,0
+BUG-2231,REL-1015,Fleet Tracking,Low,21/04/2025,25/04/2025,Resolved,4
+BUG-2232,REL-1015,Fleet Tracking,Medium,23/04/2025,02/05/2025,Resolved,9
+BUG-2233,REL-1015,Fleet Tracking,Medium,27/04/2025,06/05/2025,Resolved,9
+BUG-2234,REL-1015,Fleet Tracking,Medium,26/04/2025,27/04/2025,Resolved,1
+BUG-2235,REL-1015,Fleet Tracking,Medium,30/04/2025,05/05/2025,Resolved,5
+BUG-2236,REL-1015,Fleet Tracking,Low,27/04/2025,10/05/2025,Resolved,13
+BUG-2237,REL-1016,Driver Mobile App,Low,30/04/2025,09/05/2025,Resolved,9
+BUG-2238,REL-1016,Driver Mobile App,High,06/05/2025,08/05/2025,Resolved,2
+BUG-2239,REL-1016,Driver Mobile App,Medium,04/05/2025,14/05/2025,Resolved,10
+BUG-2240,REL-1016,Driver Mobile App,Medium,05/05/2025,11/05/2025,Resolved,6
+BUG-2241,REL-1016,Driver Mobile App,High,02/05/2025,04/05/2025,Resolved,2
+BUG-2242,REL-1016,Driver Mobile App,Medium,07/05/2025,13/05/2025,Resolved,6
+BUG-2243,REL-1016,Driver Mobile App,High,03/05/2025,,Open,
+BUG-2244,REL-1016,Driver Mobile App,Medium,01/05/2025,07/05/2025,Resolved,6
+BUG-2245,REL-1016,Driver Mobile App,Low,03/05/2025,14/05/2025,Resolved,11
+BUG-2246,REL-1016,Driver Mobile App,High,07/05/2025,12/05/2025,Resolved,5
+BUG-2247,REL-1016,Driver Mobile App,Low,05/05/2025,,Open,
+BUG-2248,REL-1017,Admin Web Dashboard,Medium,08/05/2025,,Open,
+BUG-2249,REL-1017,Admin Web Dashboard,High,14/05/2025,,Open,
+BUG-2250,REL-1017,Admin Web Dashboard,Low,07/05/2025,29/05/2025,Resolved,22
+BUG-2251,REL-1017,Admin Web Dashboard,High,13/05/2025,17/05/2025,Resolved,4
+BUG-2252,REL-1017,Admin Web Dashboard,Low,07/05/2025,24/05/2025,Resolved,17
+BUG-2253,REL-1017,Admin Web Dashboard,Medium,07/05/2025,14/05/2025,Resolved,7
+BUG-2254,REL-1017,Admin Web Dashboard,High,12/05/2025,16/05/2025,Resolved,4
+BUG-2255,REL-1017,Admin Web Dashboard,Critical,09/05/2025,,Open,
+BUG-2256,REL-1017,Admin Web Dashboard,High,09/05/2025,,Open,
+BUG-2257,REL-1017,Admin Web Dashboard,Critical,07/05/2025,07/05/2025,Resolved,0
+BUG-2258,REL-1018,IoT Sensor Hub,Low,12/05/2025,26/05/2025,Resolved,14
+BUG-2259,REL-1018,IoT Sensor Hub,Low,19/05/2025,26/05/2025,Resolved,7
+BUG-2260,REL-1018,IoT Sensor Hub,Medium,20/05/2025,,Open,
+BUG-2261,REL-1018,IoT Sensor Hub,High,17/05/2025,,Open,
+BUG-2262,REL-1018,IoT Sensor Hub,Medium,18/05/2025,23/05/2025,Resolved,5
+BUG-2263,REL-1018,IoT Sensor Hub,Low,16/05/2025,23/05/2025,Resolved,7
+BUG-2264,REL-1018,IoT Sensor Hub,Low,18/05/2025,29/05/2025,Resolved,11
+BUG-2265,REL-1018,IoT Sensor Hub,High,12/05/2025,13/05/2025,Resolved,1
+BUG-2266,REL-1018,IoT Sensor Hub,Critical,14/05/2025,15/05/2025,Resolved,1
+BUG-2267,REL-1018,IoT Sensor Hub,High,18/05/2025,21/05/2025,Resolved,3
+BUG-2268,REL-1018,IoT Sensor Hub,Medium,16/05/2025,22/05/2025,Resolved,6
+BUG-2269,REL-1018,IoT Sensor Hub,Low,15/05/2025,24/05/2025,Resolved,9
+BUG-2270,REL-1018,IoT Sensor Hub,Critical,21/05/2025,21/05/2025,Resolved,0
+BUG-2271,REL-1018,IoT Sensor Hub,Critical,19/05/2025,19/05/2025,Resolved,0
+BUG-2272,REL-1018,IoT Sensor Hub,Critical,12/05/2025,13/05/2025,Resolved,1
+BUG-2273,REL-1018,IoT Sensor Hub,Medium,14/05/2025,,Open,
+BUG-2274,REL-1018,IoT Sensor Hub,High,20/05/2025,21/05/2025,Resolved,1
+BUG-2275,REL-1018,IoT Sensor Hub,Low,15/05/2025,26/05/2025,Resolved,11
+BUG-2276,REL-1018,IoT Sensor Hub,High,14/05/2025,,Open,
+BUG-2277,REL-1018,IoT Sensor Hub,High,16/05/2025,16/05/2025,Resolved,0
+BUG-2278,REL-1019,Billing Portal,High,21/05/2025,23/05/2025,Resolved,2
+BUG-2279,REL-1019,Billing Portal,Medium,20/05/2025,,Open,
+BUG-2280,REL-1019,Billing Portal,High,19/05/2025,23/05/2025,Resolved,4
+BUG-2281,REL-1019,Billing Portal,High,20/05/2025,23/05/2025,Resolved,3
+BUG-2282,REL-1019,Billing Portal,Critical,28/05/2025,29/05/2025,Resolved,1
+BUG-2283,REL-1019,Billing Portal,Low,27/05/2025,31/05/2025,Resolved,4
+BUG-2284,REL-1019,Billing Portal,High,24/05/2025,27/05/2025,Resolved,3
+BUG-2285,REL-1019,Billing Portal,High,26/05/2025,29/05/2025,Resolved,3
+BUG-2286,REL-1019,Billing Portal,Medium,20/05/2025,25/05/2025,Resolved,5
+BUG-2287,REL-1019,Billing Portal,Medium,27/05/2025,02/06/2025,Resolved,6
+BUG-2288,REL-1019,Billing Portal,Medium,26/05/2025,02/06/2025,Resolved,7
+BUG-2289,REL-1019,Billing Portal,High,24/05/2025,28/05/2025,Resolved,4
+BUG-2290,REL-1019,Billing Portal,Critical,19/05/2025,20/05/2025,Resolved,1
+BUG-2291,REL-1019,Billing Portal,High,19/05/2025,21/05/2025,Resolved,2
+BUG-2292,REL-1019,Billing Portal,Low,28/05/2025,11/06/2025,Resolved,14
+BUG-2293,REL-1020,Fleet Tracking,Low,09/06/2025,24/06/2025,Resolved,15
+BUG-2294,REL-1020,Fleet Tracking,Low,06/06/2025,19/06/2025,Resolved,13
+BUG-2295,REL-1020,Fleet Tracking,High,07/06/2025,10/06/2025,Resolved,3
+BUG-2296,REL-1020,Fleet Tracking,Medium,06/06/2025,13/06/2025,Resolved,7
+BUG-2297,REL-1020,Fleet Tracking,Medium,05/06/2025,10/06/2025,Resolved,5
+BUG-2298,REL-1020,Fleet Tracking,Medium,09/06/2025,18/06/2025,Resolved,9
+BUG-2299,REL-1020,Fleet Tracking,Medium,06/06/2025,11/06/2025,Resolved,5
+BUG-2300,REL-1020,Fleet Tracking,Medium,03/06/2025,14/06/2025,Resolved,11
+BUG-2301,REL-1020,Fleet Tracking,Low,04/06/2025,13/06/2025,Resolved,9
+BUG-2302,REL-1020,Fleet Tracking,Medium,05/06/2025,16/06/2025,Resolved,11
+BUG-2303,REL-1020,Fleet Tracking,Medium,02/06/2025,07/06/2025,Resolved,5
+BUG-2304,REL-1021,Driver Mobile App,Critical,02/06/2025,02/06/2025,Resolved,0
+BUG-2305,REL-1021,Driver Mobile App,High,06/06/2025,10/06/2025,Resolved,4
+BUG-2306,REL-1021,Driver Mobile App,Medium,05/06/2025,13/06/2025,Resolved,8
+BUG-2307,REL-1021,Driver Mobile App,Medium,04/06/2025,06/06/2025,Resolved,2
+BUG-2308,REL-1021,Driver Mobile App,Medium,03/06/2025,13/06/2025,Resolved,10
+BUG-2309,REL-1021,Driver Mobile App,Low,08/06/2025,20/06/2025,Resolved,12
+BUG-2310,REL-1021,Driver Mobile App,High,03/06/2025,04/06/2025,Resolved,1
+BUG-2311,REL-1021,Driver Mobile App,Medium,04/06/2025,08/06/2025,Resolved,4
+BUG-2312,REL-1021,Driver Mobile App,Medium,03/06/2025,12/06/2025,Resolved,9
+BUG-2313,REL-1021,Driver Mobile App,Low,10/06/2025,22/06/2025,Resolved,12
+BUG-2314,REL-1021,Driver Mobile App,Medium,10/06/2025,15/06/2025,Resolved,5
+BUG-2315,REL-1021,Driver Mobile App,High,02/06/2025,05/06/2025,Resolved,3
+BUG-2316,REL-1021,Driver Mobile App,Medium,02/06/2025,07/06/2025,Resolved,5
+BUG-2317,REL-1021,Driver Mobile App,High,08/06/2025,09/06/2025,Resolved,1
+BUG-2318,REL-1021,Driver Mobile App,High,11/06/2025,13/06/2025,Resolved,2
+BUG-2319,REL-1022,Admin Web Dashboard,Medium,12/06/2025,19/06/2025,Resolved,7
+BUG-2320,REL-1022,Admin Web Dashboard,Medium,17/06/2025,23/06/2025,Resolved,6
+BUG-2321,REL-1022,Admin Web Dashboard,Medium,13/06/2025,20/06/2025,Resolved,7
+BUG-2322,REL-1022,Admin Web Dashboard,Low,14/06/2025,27/06/2025,Resolved,13
+BUG-2323,REL-1022,Admin Web Dashboard,High,10/06/2025,11/06/2025,Resolved,1
+BUG-2324,REL-1022,Admin Web Dashboard,High,09/06/2025,12/06/2025,Resolved,3
+BUG-2325,REL-1022,Admin Web Dashboard,Critical,18/06/2025,18/06/2025,Resolved,0
+BUG-2326,REL-1022,Admin Web Dashboard,Critical,17/06/2025,17/06/2025,Resolved,0
+BUG-2327,REL-1022,Admin Web Dashboard,Low,16/06/2025,17/06/2025,Resolved,1
+BUG-2328,REL-1022,Admin Web Dashboard,High,12/06/2025,18/06/2025,Resolved,6
+BUG-2329,REL-1022,Admin Web Dashboard,High,15/06/2025,17/06/2025,Resolved,2
+BUG-2330,REL-1022,Admin Web Dashboard,High,14/06/2025,16/06/2025,Resolved,2
+BUG-2331,REL-1022,Admin Web Dashboard,High,10/06/2025,12/06/2025,Resolved,2
+BUG-2332,REL-1022,Admin Web Dashboard,Low,16/06/2025,25/06/2025,Resolved,9
+BUG-2333,REL-1022,Admin Web Dashboard,High,17/06/2025,21/06/2025,Resolved,4
+BUG-2334,REL-1022,Admin Web Dashboard,Medium,13/06/2025,21/06/2025,Resolved,8
+BUG-2335,REL-1022,Admin Web Dashboard,Medium,10/06/2025,15/06/2025,Resolved,5
+BUG-2336,REL-1022,Admin Web Dashboard,Low,17/06/2025,28/06/2025,Resolved,11
+BUG-2337,REL-1023,IoT Sensor Hub,Medium,19/06/2025,27/06/2025,Resolved,8
+BUG-2338,REL-1023,IoT Sensor Hub,Low,18/06/2025,30/06/2025,Resolved,12
+BUG-2339,REL-1023,IoT Sensor Hub,Medium,21/06/2025,23/06/2025,Resolved,2
+BUG-2340,REL-1023,IoT Sensor Hub,Medium,20/06/2025,28/06/2025,Resolved,8
+BUG-2341,REL-1023,IoT Sensor Hub,Medium,16/06/2025,20/06/2025,Resolved,4
+BUG-2342,REL-1023,IoT Sensor Hub,Critical,18/06/2025,18/06/2025,Resolved,0
+BUG-2343,REL-1023,IoT Sensor Hub,Medium,17/06/2025,17/06/2025,Resolved,0
+BUG-2344,REL-1023,IoT Sensor Hub,Medium,21/06/2025,25/06/2025,Resolved,4
+BUG-2345,REL-1023,IoT Sensor Hub,Low,24/06/2025,28/06/2025,Resolved,4
+BUG-2346,REL-1023,IoT Sensor Hub,Medium,22/06/2025,24/06/2025,Resolved,2
+BUG-2347,REL-1023,IoT Sensor Hub,Medium,20/06/2025,27/06/2025,Resolved,7
+BUG-2348,REL-1024,Billing Portal,Medium,26/06/2025,,Open,
+BUG-2349,REL-1024,Billing Portal,Medium,24/06/2025,30/06/2025,Resolved,6
+BUG-2350,REL-1024,Billing Portal,Medium,25/06/2025,28/06/2025,Resolved,3
+BUG-2351,REL-1024,Billing Portal,High,24/06/2025,27/06/2025,Resolved,3
+BUG-2352,REL-1024,Billing Portal,Medium,29/06/2025,04/07/2025,Resolved,5
+BUG-2353,REL-1024,Billing Portal,High,29/06/2025,03/07/2025,Resolved,4
+BUG-2354,REL-1024,Billing Portal,Low,26/06/2025,03/07/2025,Resolved,7
+BUG-2355,REL-1024,Billing Portal,Low,23/06/2025,04/07/2025,Resolved,11
+BUG-2356,REL-1024,Billing Portal,Critical,28/06/2025,28/06/2025,Resolved,0
+BUG-2357,REL-1024,Billing Portal,Low,01/07/2025,13/07/2025,Resolved,12
+BUG-2358,REL-1024,Billing Portal,Medium,02/07/2025,10/07/2025,Resolved,8
+BUG-2359,REL-1024,Billing Portal,Medium,02/07/2025,05/07/2025,Resolved,3
+BUG-2360,REL-1024,Billing Portal,Low,29/06/2025,04/07/2025,Resolved,5
+BUG-2361,REL-1024,Billing Portal,High,26/06/2025,28/06/2025,Resolved,2
+BUG-2362,REL-1024,Billing Portal,High,24/06/2025,25/06/2025,Resolved,1
+BUG-2363,REL-1024,Billing Portal,Medium,28/06/2025,04/07/2025,Resolved,6
+BUG-2364,REL-1024,Billing Portal,Medium,02/07/2025,07/07/2025,Resolved,5
+BUG-2365,REL-1024,Billing Portal,Medium,01/07/2025,07/07/2025,Resolved,6
+BUG-2366,REL-1024,Billing Portal,Medium,25/06/2025,30/06/2025,Resolved,5
+BUG-2367,REL-1024,Billing Portal,Medium,01/07/2025,08/07/2025,Resolved,7
+BUG-2368,REL-1025,Fleet Tracking,High,30/06/2025,04/07/2025,Resolved,4
+BUG-2369,REL-1025,Fleet Tracking,Medium,30/06/2025,04/07/2025,Resolved,4
+BUG-2370,REL-1025,Fleet Tracking,Medium,01/07/2025,04/07/2025,Resolved,3
+BUG-2371,REL-1025,Fleet Tracking,Critical,04/07/2025,05/07/2025,Resolved,1
+BUG-2372,REL-1025,Fleet Tracking,High,09/07/2025,10/07/2025,Resolved,1
+BUG-2373,REL-1025,Fleet Tracking,Medium,06/07/2025,,Open,
+BUG-2374,REL-1025,Fleet Tracking,Medium,03/07/2025,05/07/2025,Resolved,2
+BUG-2375,REL-1025,Fleet Tracking,Medium,03/07/2025,09/07/2025,Resolved,6
+BUG-2376,REL-1025,Fleet Tracking,High,09/07/2025,12/07/2025,Resolved,3
+BUG-2377,REL-1025,Fleet Tracking,Medium,30/06/2025,30/06/2025,Resolved,0
+BUG-2378,REL-1025,Fleet Tracking,Low,05/07/2025,,Open,
+BUG-2379,REL-1025,Fleet Tracking,Low,30/06/2025,10/07/2025,Resolved,10
+BUG-2380,REL-1025,Fleet Tracking,High,06/07/2025,10/07/2025,Resolved,4
+BUG-2381,REL-1026,Driver Mobile App,Low,17/07/2025,25/07/2025,Resolved,8
+BUG-2382,REL-1026,Driver Mobile App,Medium,13/07/2025,,Open,
+BUG-2383,REL-1026,Driver Mobile App,Medium,14/07/2025,17/07/2025,Resolved,3
+BUG-2384,REL-1026,Driver Mobile App,Medium,14/07/2025,14/07/2025,Resolved,0
+BUG-2385,REL-1026,Driver Mobile App,Medium,16/07/2025,22/07/2025,Resolved,6
+BUG-2386,REL-1026,Driver Mobile App,Medium,14/07/2025,14/07/2025,Resolved,0
+BUG-2387,REL-1026,Driver Mobile App,Medium,17/07/2025,22/07/2025,Resolved,5
+BUG-2388,REL-1026,Driver Mobile App,Medium,14/07/2025,18/07/2025,Resolved,4
+BUG-2389,REL-1026,Driver Mobile App,Medium,13/07/2025,,Open,
+BUG-2390,REL-1026,Driver Mobile App,Medium,17/07/2025,24/07/2025,Resolved,7
+BUG-2391,REL-1026,Driver Mobile App,Medium,12/07/2025,21/07/2025,Resolved,9
+BUG-2392,REL-1026,Driver Mobile App,Medium,20/07/2025,27/07/2025,Resolved,7
+BUG-2393,REL-1026,Driver Mobile App,Medium,13/07/2025,20/07/2025,Resolved,7
+BUG-2394,REL-1026,Driver Mobile App,Medium,15/07/2025,21/07/2025,Resolved,6
+BUG-2395,REL-1027,Admin Web Dashboard,Critical,15/07/2025,15/07/2025,Resolved,0
+BUG-2396,REL-1027,Admin Web Dashboard,Low,23/07/2025,03/08/2025,Resolved,11
+BUG-2397,REL-1027,Admin Web Dashboard,Medium,15/07/2025,,Open,
+BUG-2398,REL-1027,Admin Web Dashboard,High,16/07/2025,18/07/2025,Resolved,2
+BUG-2399,REL-1027,Admin Web Dashboard,Low,16/07/2025,28/07/2025,Resolved,12
+BUG-2400,REL-1027,Admin Web Dashboard,Medium,21/07/2025,24/07/2025,Resolved,3
+BUG-2401,REL-1027,Admin Web Dashboard,Medium,17/07/2025,24/07/2025,Resolved,7
+BUG-2402,REL-1027,Admin Web Dashboard,Medium,18/07/2025,21/07/2025,Resolved,3
+BUG-2403,REL-1027,Admin Web Dashboard,Medium,16/07/2025,19/07/2025,Resolved,3
+BUG-2404,REL-1027,Admin Web Dashboard,Medium,19/07/2025,,Open,
+BUG-2405,REL-1027,Admin Web Dashboard,High,18/07/2025,20/07/2025,Resolved,2
+BUG-2406,REL-1027,Admin Web Dashboard,High,18/07/2025,21/07/2025,Resolved,3
+BUG-2407,REL-1027,Admin Web Dashboard,Medium,18/07/2025,21/07/2025,Resolved,3
+BUG-2408,REL-1027,Admin Web Dashboard,Medium,17/07/2025,22/07/2025,Resolved,5
+BUG-2409,REL-1027,Admin Web Dashboard,High,17/07/2025,19/07/2025,Resolved,2
+BUG-2410,REL-1028,IoT Sensor Hub,Medium,24/07/2025,31/07/2025,Resolved,7
+BUG-2411,REL-1028,IoT Sensor Hub,Medium,30/07/2025,03/08/2025,Resolved,4
+BUG-2412,REL-1028,IoT Sensor Hub,Medium,21/07/2025,29/07/2025,Resolved,8
+BUG-2413,REL-1028,IoT Sensor Hub,Critical,28/07/2025,29/07/2025,Resolved,1
+BUG-2414,REL-1028,IoT Sensor Hub,Low,28/07/2025,04/08/2025,Resolved,7
+BUG-2415,REL-1028,IoT Sensor Hub,Low,27/07/2025,01/08/2025,Resolved,5
+BUG-2416,REL-1028,IoT Sensor Hub,Medium,25/07/2025,31/07/2025,Resolved,6
+BUG-2417,REL-1028,IoT Sensor Hub,Critical,27/07/2025,27/07/2025,Resolved,0
+BUG-2418,REL-1028,IoT Sensor Hub,Critical,25/07/2025,26/07/2025,Resolved,1
+BUG-2419,REL-1028,IoT Sensor Hub,Medium,24/07/2025,01/08/2025,Resolved,8
+BUG-2420,REL-1028,IoT Sensor Hub,High,30/07/2025,01/08/2025,Resolved,2
+BUG-2421,REL-1028,IoT Sensor Hub,Medium,28/07/2025,05/08/2025,Resolved,8
+BUG-2422,REL-1029,Billing Portal,Medium,30/07/2025,03/08/2025,Resolved,4
+BUG-2423,REL-1029,Billing Portal,Medium,05/08/2025,12/08/2025,Resolved,7
+BUG-2424,REL-1029,Billing Portal,Low,01/08/2025,19/08/2025,Resolved,18
+BUG-2425,REL-1029,Billing Portal,Medium,29/07/2025,07/08/2025,Resolved,9
+BUG-2426,REL-1029,Billing Portal,Low,29/07/2025,15/08/2025,Resolved,17
+BUG-2427,REL-1029,Billing Portal,Medium,04/08/2025,08/08/2025,Resolved,4
+BUG-2428,REL-1029,Billing Portal,Medium,06/08/2025,12/08/2025,Resolved,6
+BUG-2429,REL-1029,Billing Portal,Low,31/07/2025,09/08/2025,Resolved,9
+BUG-2430,REL-1029,Billing Portal,Medium,30/07/2025,04/08/2025,Resolved,5
+BUG-2431,REL-1029,Billing Portal,Medium,03/08/2025,11/08/2025,Resolved,8
+BUG-2432,REL-1029,Billing Portal,Low,04/08/2025,10/08/2025,Resolved,6
+BUG-2433,REL-1030,Fleet Tracking,Medium,09/08/2025,13/08/2025,Resolved,4
+BUG-2434,REL-1030,Fleet Tracking,Medium,05/08/2025,13/08/2025,Resolved,8
+BUG-2435,REL-1030,Fleet Tracking,Medium,05/08/2025,11/08/2025,Resolved,6
+BUG-2436,REL-1030,Fleet Tracking,Medium,08/08/2025,10/08/2025,Resolved,2
+BUG-2437,REL-1030,Fleet Tracking,Medium,09/08/2025,19/08/2025,Resolved,10
+BUG-2438,REL-1030,Fleet Tracking,Medium,08/08/2025,15/08/2025,Resolved,7
+BUG-2439,REL-1030,Fleet Tracking,Medium,11/08/2025,,Open,
+BUG-2440,REL-1030,Fleet Tracking,High,13/08/2025,14/08/2025,Resolved,1
+BUG-2441,REL-1030,Fleet Tracking,Medium,08/08/2025,15/08/2025,Resolved,7
+BUG-2442,REL-1030,Fleet Tracking,Medium,12/08/2025,21/08/2025,Resolved,9
+BUG-2443,REL-1030,Fleet Tracking,Critical,13/08/2025,14/08/2025,Resolved,1
+BUG-2444,REL-1030,Fleet Tracking,Medium,08/08/2025,14/08/2025,Resolved,6
+BUG-2445,REL-1030,Fleet Tracking,Medium,06/08/2025,11/08/2025,Resolved,5
+BUG-2446,REL-1030,Fleet Tracking,High,07/08/2025,11/08/2025,Resolved,4
+BUG-2447,REL-1030,Fleet Tracking,Low,06/08/2025,17/08/2025,Resolved,11
+BUG-2448,REL-1030,Fleet Tracking,High,13/08/2025,14/08/2025,Resolved,1
+BUG-2449,REL-1031,Driver Mobile App,High,14/08/2025,18/08/2025,Resolved,4
+BUG-2450,REL-1031,Driver Mobile App,Medium,15/08/2025,20/08/2025,Resolved,5
+BUG-2451,REL-1031,Driver Mobile App,Medium,14/08/2025,19/08/2025,Resolved,5
+BUG-2452,REL-1031,Driver Mobile App,Medium,13/08/2025,17/08/2025,Resolved,4
+BUG-2453,REL-1031,Driver Mobile App,Critical,16/08/2025,,Open,
+BUG-2454,REL-1031,Driver Mobile App,High,14/08/2025,18/08/2025,Resolved,4
+BUG-2455,REL-1031,Driver Mobile App,Medium,14/08/2025,20/08/2025,Resolved,6
+BUG-2456,REL-1031,Driver Mobile App,Medium,11/08/2025,15/08/2025,Resolved,4
+BUG-2457,REL-1031,Driver Mobile App,Medium,19/08/2025,25/08/2025,Resolved,6
+BUG-2458,REL-1031,Driver Mobile App,Medium,16/08/2025,,Open,
+BUG-2459,REL-1031,Driver Mobile App,Medium,17/08/2025,27/08/2025,Resolved,10
+BUG-2460,REL-1031,Driver Mobile App,Medium,12/08/2025,21/08/2025,Resolved,9
+BUG-2461,REL-1031,Driver Mobile App,Medium,16/08/2025,22/08/2025,Resolved,6
+BUG-2462,REL-1032,Admin Web Dashboard,Critical,20/08/2025,20/08/2025,Resolved,0
+BUG-2463,REL-1032,Admin Web Dashboard,Low,22/08/2025,,Open,
+BUG-2464,REL-1032,Admin Web Dashboard,Medium,27/08/2025,31/08/2025,Resolved,4
+BUG-2465,REL-1032,Admin Web Dashboard,Medium,19/08/2025,25/08/2025,Resolved,6
+BUG-2466,REL-1032,Admin Web Dashboard,Critical,26/08/2025,27/08/2025,Resolved,1
+BUG-2467,REL-1032,Admin Web Dashboard,Medium,21/08/2025,24/08/2025,Resolved,3
+BUG-2468,REL-1032,Admin Web Dashboard,Low,23/08/2025,29/08/2025,Resolved,6
+BUG-2469,REL-1032,Admin Web Dashboard,Low,23/08/2025,01/09/2025,Resolved,9
+BUG-2470,REL-1032,Admin Web Dashboard,Critical,27/08/2025,27/08/2025,Resolved,0
+BUG-2471,REL-1032,Admin Web Dashboard,Medium,19/08/2025,20/08/2025,Resolved,1
+BUG-2472,REL-1032,Admin Web Dashboard,Critical,25/08/2025,25/08/2025,Resolved,0
+BUG-2473,REL-1032,Admin Web Dashboard,High,24/08/2025,28/08/2025,Resolved,4
+BUG-2474,REL-1032,Admin Web Dashboard,Medium,22/08/2025,,Open,
+BUG-2475,REL-1032,Admin Web Dashboard,High,20/08/2025,21/08/2025,Resolved,1
+BUG-2476,REL-1033,IoT Sensor Hub,Low,02/09/2025,14/09/2025,Resolved,12
+BUG-2477,REL-1033,IoT Sensor Hub,Critical,29/08/2025,29/08/2025,Resolved,0
+BUG-2478,REL-1033,IoT Sensor Hub,Medium,25/08/2025,,Open,
+BUG-2479,REL-1033,IoT Sensor Hub,High,03/09/2025,07/09/2025,Resolved,4
+BUG-2480,REL-1033,IoT Sensor Hub,Medium,30/08/2025,05/09/2025,Resolved,6
+BUG-2481,REL-1033,IoT Sensor Hub,Medium,29/08/2025,02/09/2025,Resolved,4
+BUG-2482,REL-1033,IoT Sensor Hub,Medium,30/08/2025,09/09/2025,Resolved,10
+BUG-2483,REL-1033,IoT Sensor Hub,Low,30/08/2025,08/09/2025,Resolved,9
+BUG-2484,REL-1033,IoT Sensor Hub,Low,31/08/2025,15/09/2025,Resolved,15
+BUG-2485,REL-1033,IoT Sensor Hub,Medium,28/08/2025,03/09/2025,Resolved,6
+BUG-2486,REL-1033,IoT Sensor Hub,Low,30/08/2025,15/09/2025,Resolved,16
+BUG-2487,REL-1033,IoT Sensor Hub,High,02/09/2025,06/09/2025,Resolved,4
+BUG-2488,REL-1034,Billing Portal,Critical,03/09/2025,04/09/2025,Resolved,1
+BUG-2489,REL-1034,Billing Portal,Medium,04/09/2025,08/09/2025,Resolved,4
+BUG-2490,REL-1034,Billing Portal,Medium,03/09/2025,11/09/2025,Resolved,8
+BUG-2491,REL-1034,Billing Portal,High,10/09/2025,12/09/2025,Resolved,2
+BUG-2492,REL-1034,Billing Portal,High,08/09/2025,10/09/2025,Resolved,2
+BUG-2493,REL-1034,Billing Portal,Medium,08/09/2025,08/09/2025,Resolved,0
+BUG-2494,REL-1034,Billing Portal,High,03/09/2025,07/09/2025,Resolved,4
+BUG-2495,REL-1034,Billing Portal,Low,08/09/2025,28/09/2025,Resolved,20
+BUG-2496,REL-1034,Billing Portal,Medium,05/09/2025,11/09/2025,Resolved,6
+BUG-2497,REL-1034,Billing Portal,Medium,06/09/2025,,Open,
+BUG-2498,REL-1034,Billing Portal,Medium,05/09/2025,13/09/2025,Resolved,8
+BUG-2499,REL-1035,Fleet Tracking,High,19/09/2025,22/09/2025,Resolved,3
+BUG-2500,REL-1035,Fleet Tracking,Critical,17/09/2025,17/09/2025,Resolved,0
+BUG-2501,REL-1035,Fleet Tracking,Critical,18/09/2025,19/09/2025,Resolved,1
+BUG-2502,REL-1035,Fleet Tracking,Low,22/09/2025,01/10/2025,Resolved,9
+BUG-2503,REL-1035,Fleet Tracking,Low,22/09/2025,01/10/2025,Resolved,9
+BUG-2504,REL-1035,Fleet Tracking,Medium,23/09/2025,23/09/2025,Resolved,0
+BUG-2505,REL-1035,Fleet Tracking,High,23/09/2025,25/09/2025,Resolved,2
+BUG-2506,REL-1035,Fleet Tracking,Medium,15/09/2025,20/09/2025,Resolved,5
+BUG-2507,REL-1035,Fleet Tracking,Medium,19/09/2025,26/09/2025,Resolved,7
+BUG-2508,REL-1035,Fleet Tracking,High,14/09/2025,17/09/2025,Resolved,3
+BUG-2509,REL-1035,Fleet Tracking,Medium,15/09/2025,18/09/2025,Resolved,3
+BUG-2510,REL-1036,Driver Mobile App,Low,21/09/2025,03/10/2025,Resolved,12
+BUG-2511,REL-1036,Driver Mobile App,Medium,24/09/2025,25/09/2025,Resolved,1
+BUG-2512,REL-1036,Driver Mobile App,Critical,19/09/2025,20/09/2025,Resolved,1
+BUG-2513,REL-1036,Driver Mobile App,Low,18/09/2025,29/09/2025,Resolved,11
+BUG-2514,REL-1036,Driver Mobile App,Medium,16/09/2025,23/09/2025,Resolved,7
+BUG-2515,REL-1036,Driver Mobile App,Low,21/09/2025,29/09/2025,Resolved,8
+BUG-2516,REL-1036,Driver Mobile App,High,19/09/2025,20/09/2025,Resolved,1
+BUG-2517,REL-1036,Driver Mobile App,Medium,18/09/2025,23/09/2025,Resolved,5
+BUG-2518,REL-1036,Driver Mobile App,Low,20/09/2025,28/09/2025,Resolved,8
+BUG-2519,REL-1036,Driver Mobile App,High,17/09/2025,20/09/2025,Resolved,3
+BUG-2520,REL-1037,Admin Web Dashboard,Medium,30/09/2025,08/10/2025,Resolved,8
+BUG-2521,REL-1037,Admin Web Dashboard,Low,24/09/2025,05/10/2025,Resolved,11
+BUG-2522,REL-1037,Admin Web Dashboard,High,22/09/2025,27/09/2025,Resolved,5
+BUG-2523,REL-1037,Admin Web Dashboard,Medium,26/09/2025,29/09/2025,Resolved,3
+BUG-2524,REL-1037,Admin Web Dashboard,Critical,25/09/2025,25/09/2025,Resolved,0
+BUG-2525,REL-1037,Admin Web Dashboard,Low,27/09/2025,06/10/2025,Resolved,9
+BUG-2526,REL-1037,Admin Web Dashboard,Critical,24/09/2025,24/09/2025,Resolved,0
+BUG-2527,REL-1037,Admin Web Dashboard,Low,26/09/2025,03/10/2025,Resolved,7
+BUG-2528,REL-1037,Admin Web Dashboard,Medium,22/09/2025,28/09/2025,Resolved,6
+BUG-2529,REL-1037,Admin Web Dashboard,Medium,30/09/2025,08/10/2025,Resolved,8
+BUG-2530,REL-1037,Admin Web Dashboard,Medium,28/09/2025,05/10/2025,Resolved,7
+BUG-2531,REL-1037,Admin Web Dashboard,Medium,30/09/2025,03/10/2025,Resolved,3
+BUG-2532,REL-1037,Admin Web Dashboard,Low,27/09/2025,05/10/2025,Resolved,8
+BUG-2533,REL-1037,Admin Web Dashboard,Medium,25/09/2025,29/09/2025,Resolved,4
+BUG-2534,REL-1037,Admin Web Dashboard,Low,24/09/2025,05/10/2025,Resolved,11
+BUG-2535,REL-1037,Admin Web Dashboard,Low,23/09/2025,04/10/2025,Resolved,11
+BUG-2536,REL-1038,IoT Sensor Hub,Critical,07/10/2025,07/10/2025,Resolved,0
+BUG-2537,REL-1038,IoT Sensor Hub,Critical,04/10/2025,04/10/2025,Resolved,0
+BUG-2538,REL-1038,IoT Sensor Hub,Medium,02/10/2025,03/10/2025,Resolved,1
+BUG-2539,REL-1038,IoT Sensor Hub,Medium,04/10/2025,10/10/2025,Resolved,6
+BUG-2540,REL-1038,IoT Sensor Hub,Medium,03/10/2025,09/10/2025,Resolved,6
+BUG-2541,REL-1038,IoT Sensor Hub,Medium,04/10/2025,09/10/2025,Resolved,5
+BUG-2542,REL-1038,IoT Sensor Hub,Medium,06/10/2025,13/10/2025,Resolved,7
+BUG-2543,REL-1038,IoT Sensor Hub,Low,05/10/2025,14/10/2025,Resolved,9
+BUG-2544,REL-1038,IoT Sensor Hub,Low,29/09/2025,13/10/2025,Resolved,14
+BUG-2545,REL-1038,IoT Sensor Hub,Medium,06/10/2025,12/10/2025,Resolved,6
+BUG-2546,REL-1038,IoT Sensor Hub,Medium,08/10/2025,,Open,
+BUG-2547,REL-1038,IoT Sensor Hub,Low,06/10/2025,19/10/2025,Resolved,13
+BUG-2548,REL-1038,IoT Sensor Hub,Low,30/09/2025,12/10/2025,Resolved,12
+BUG-2549,REL-1038,IoT Sensor Hub,Medium,02/10/2025,05/10/2025,Resolved,3
+BUG-2550,REL-1038,IoT Sensor Hub,Low,29/09/2025,07/10/2025,Resolved,8
+BUG-2551,REL-1039,Billing Portal,Medium,12/10/2025,22/10/2025,Resolved,10
+BUG-2552,REL-1039,Billing Portal,Low,15/10/2025,20/10/2025,Resolved,5
+BUG-2553,REL-1039,Billing Portal,High,14/10/2025,18/10/2025,Resolved,4
+BUG-2554,REL-1039,Billing Portal,High,07/10/2025,10/10/2025,Resolved,3
+BUG-2555,REL-1039,Billing Portal,Low,13/10/2025,25/10/2025,Resolved,12
+BUG-2556,REL-1039,Billing Portal,Medium,12/10/2025,20/10/2025,Resolved,8
+BUG-2557,REL-1039,Billing Portal,Critical,10/10/2025,10/10/2025,Resolved,0
+BUG-2558,REL-1039,Billing Portal,Low,11/10/2025,23/10/2025,Resolved,12
+BUG-2559,REL-1039,Billing Portal,Medium,07/10/2025,11/10/2025,Resolved,4
+BUG-2560,REL-1039,Billing Portal,Low,07/10/2025,16/10/2025,Resolved,9
+BUG-2561,REL-1039,Billing Portal,Medium,14/10/2025,15/10/2025,Resolved,1
+BUG-2562,REL-1039,Billing Portal,Medium,14/10/2025,18/10/2025,Resolved,4
+BUG-2563,REL-1040,Fleet Tracking,Medium,14/10/2025,19/10/2025,Resolved,5
+BUG-2564,REL-1040,Fleet Tracking,Low,13/10/2025,,Open,
+BUG-2565,REL-1040,Fleet Tracking,Medium,22/10/2025,31/10/2025,Resolved,9
+BUG-2566,REL-1040,Fleet Tracking,Critical,13/10/2025,14/10/2025,Resolved,1
+BUG-2567,REL-1040,Fleet Tracking,Low,20/10/2025,,Open,
+BUG-2568,REL-1040,Fleet Tracking,Medium,16/10/2025,20/10/2025,Resolved,4
+BUG-2569,REL-1040,Fleet Tracking,Low,20/10/2025,30/10/2025,Resolved,10
+BUG-2570,REL-1040,Fleet Tracking,High,18/10/2025,21/10/2025,Resolved,3
+BUG-2571,REL-1040,Fleet Tracking,Medium,15/10/2025,16/10/2025,Resolved,1
+BUG-2572,REL-1040,Fleet Tracking,High,22/10/2025,24/10/2025,Resolved,2
+BUG-2573,REL-1041,Driver Mobile App,Low,23/10/2025,02/11/2025,Resolved,10
+BUG-2574,REL-1041,Driver Mobile App,Medium,23/10/2025,29/10/2025,Resolved,6
+BUG-2575,REL-1041,Driver Mobile App,Low,25/10/2025,30/10/2025,Resolved,5
+BUG-2576,REL-1041,Driver Mobile App,Medium,25/10/2025,31/10/2025,Resolved,6
+BUG-2577,REL-1041,Driver Mobile App,Low,22/10/2025,27/10/2025,Resolved,5
+BUG-2578,REL-1041,Driver Mobile App,Critical,24/10/2025,,Open,
+BUG-2579,REL-1041,Driver Mobile App,Medium,22/10/2025,,Open,
+BUG-2580,REL-1041,Driver Mobile App,High,21/10/2025,22/10/2025,Resolved,1
+BUG-2581,REL-1041,Driver Mobile App,Medium,20/10/2025,23/10/2025,Resolved,3
+BUG-2582,REL-1041,Driver Mobile App,Low,22/10/2025,05/11/2025,Resolved,14
+BUG-2583,REL-1041,Driver Mobile App,Medium,24/10/2025,05/11/2025,Resolved,12
+BUG-2584,REL-1041,Driver Mobile App,Low,24/10/2025,27/10/2025,Resolved,3
+BUG-2585,REL-1042,Admin Web Dashboard,Medium,01/11/2025,07/11/2025,Resolved,6
+BUG-2586,REL-1042,Admin Web Dashboard,Low,30/10/2025,07/11/2025,Resolved,8
+BUG-2587,REL-1042,Admin Web Dashboard,Critical,01/11/2025,,Open,
+BUG-2588,REL-1042,Admin Web Dashboard,Medium,01/11/2025,04/11/2025,Resolved,3
+BUG-2589,REL-1042,Admin Web Dashboard,Medium,01/11/2025,13/11/2025,Resolved,12
+BUG-2590,REL-1042,Admin Web Dashboard,Medium,04/11/2025,12/11/2025,Resolved,8
+BUG-2591,REL-1042,Admin Web Dashboard,Medium,31/10/2025,05/11/2025,Resolved,5
+BUG-2592,REL-1042,Admin Web Dashboard,Low,30/10/2025,10/11/2025,Resolved,11
+BUG-2593,REL-1042,Admin Web Dashboard,Medium,04/11/2025,06/11/2025,Resolved,2
+BUG-2594,REL-1042,Admin Web Dashboard,Medium,29/10/2025,06/11/2025,Resolved,8
+BUG-2595,REL-1042,Admin Web Dashboard,Medium,02/11/2025,07/11/2025,Resolved,5
+BUG-2596,REL-1042,Admin Web Dashboard,Medium,01/11/2025,06/11/2025,Resolved,5
+BUG-2597,REL-1042,Admin Web Dashboard,Medium,31/10/2025,08/11/2025,Resolved,8
+BUG-2598,REL-1042,Admin Web Dashboard,High,04/11/2025,06/11/2025,Resolved,2
+BUG-2599,REL-1042,Admin Web Dashboard,Low,28/10/2025,10/11/2025,Resolved,13
+BUG-2600,REL-1043,IoT Sensor Hub,Critical,06/11/2025,07/11/2025,Resolved,1
+BUG-2601,REL-1043,IoT Sensor Hub,Medium,07/11/2025,14/11/2025,Resolved,7
+BUG-2602,REL-1043,IoT Sensor Hub,Medium,10/11/2025,17/11/2025,Resolved,7
+BUG-2603,REL-1043,IoT Sensor Hub,Medium,06/11/2025,10/11/2025,Resolved,4
+BUG-2604,REL-1043,IoT Sensor Hub,High,04/11/2025,06/11/2025,Resolved,2
+BUG-2605,REL-1043,IoT Sensor Hub,High,08/11/2025,10/11/2025,Resolved,2
+BUG-2606,REL-1043,IoT Sensor Hub,Low,08/11/2025,17/11/2025,Resolved,9
+BUG-2607,REL-1043,IoT Sensor Hub,Critical,10/11/2025,10/11/2025,Resolved,0
+BUG-2608,REL-1043,IoT Sensor Hub,Low,10/11/2025,16/11/2025,Resolved,6
+BUG-2609,REL-1043,IoT Sensor Hub,Low,09/11/2025,12/11/2025,Resolved,3
+BUG-2610,REL-1043,IoT Sensor Hub,Low,07/11/2025,16/11/2025,Resolved,9
+BUG-2611,REL-1043,IoT Sensor Hub,Medium,11/11/2025,11/11/2025,Resolved,0
+BUG-2612,REL-1043,IoT Sensor Hub,Medium,06/11/2025,12/11/2025,Resolved,6
+BUG-2613,REL-1043,IoT Sensor Hub,Medium,04/11/2025,12/11/2025,Resolved,8
+BUG-2614,REL-1043,IoT Sensor Hub,Medium,06/11/2025,13/11/2025,Resolved,7
+BUG-2615,REL-1043,IoT Sensor Hub,Low,04/11/2025,09/11/2025,Resolved,5
+BUG-2616,REL-1044,Billing Portal,Medium,18/11/2025,23/11/2025,Resolved,5
+BUG-2617,REL-1044,Billing Portal,Medium,10/11/2025,14/11/2025,Resolved,4
+BUG-2618,REL-1044,Billing Portal,Medium,16/11/2025,22/11/2025,Resolved,6
+BUG-2619,REL-1044,Billing Portal,Medium,15/11/2025,22/11/2025,Resolved,7
+BUG-2620,REL-1044,Billing Portal,High,10/11/2025,11/11/2025,Resolved,1
+BUG-2621,REL-1044,Billing Portal,Medium,11/11/2025,19/11/2025,Resolved,8
+BUG-2622,REL-1044,Billing Portal,Medium,10/11/2025,14/11/2025,Resolved,4
+BUG-2623,REL-1044,Billing Portal,Low,12/11/2025,23/11/2025,Resolved,11
+BUG-2624,REL-1044,Billing Portal,Medium,18/11/2025,22/11/2025,Resolved,4
+BUG-2625,REL-1044,Billing Portal,Critical,16/11/2025,17/11/2025,Resolved,1
+BUG-2626,REL-1044,Billing Portal,High,10/11/2025,12/11/2025,Resolved,2
+BUG-2627,REL-1044,Billing Portal,Low,18/11/2025,28/11/2025,Resolved,10
+BUG-2628,REL-1044,Billing Portal,Critical,14/11/2025,14/11/2025,Resolved,0
+BUG-2629,REL-1044,Billing Portal,Medium,18/11/2025,21/11/2025,Resolved,3
+BUG-2630,REL-1044,Billing Portal,Low,18/11/2025,27/11/2025,Resolved,9
+BUG-2631,REL-1044,Billing Portal,Low,11/11/2025,12/11/2025,Resolved,1
+BUG-2632,REL-1044,Billing Portal,Medium,15/11/2025,24/11/2025,Resolved,9
+BUG-2633,REL-1045,Fleet Tracking,Medium,20/11/2025,28/11/2025,Resolved,8
+BUG-2634,REL-1045,Fleet Tracking,High,23/11/2025,27/11/2025,Resolved,4
+BUG-2635,REL-1045,Fleet Tracking,Medium,22/11/2025,25/11/2025,Resolved,3
+BUG-2636,REL-1045,Fleet Tracking,High,20/11/2025,24/11/2025,Resolved,4
+BUG-2637,REL-1045,Fleet Tracking,Critical,25/11/2025,26/11/2025,Resolved,1
+BUG-2638,REL-1045,Fleet Tracking,High,26/11/2025,29/11/2025,Resolved,3
+BUG-2639,REL-1045,Fleet Tracking,Medium,24/11/2025,,Open,
+BUG-2640,REL-1045,Fleet Tracking,Critical,19/11/2025,20/11/2025,Resolved,1
+BUG-2641,REL-1045,Fleet Tracking,Medium,22/11/2025,30/11/2025,Resolved,8
+BUG-2642,REL-1045,Fleet Tracking,Critical,26/11/2025,26/11/2025,Resolved,0
+BUG-2643,REL-1045,Fleet Tracking,Medium,17/11/2025,24/11/2025,Resolved,7
+BUG-2644,REL-1045,Fleet Tracking,Critical,25/11/2025,26/11/2025,Resolved,1
+BUG-2645,REL-1045,Fleet Tracking,High,21/11/2025,25/11/2025,Resolved,4
+BUG-2646,REL-1045,Fleet Tracking,Medium,21/11/2025,25/11/2025,Resolved,4
+BUG-2647,REL-1045,Fleet Tracking,Low,19/11/2025,01/12/2025,Resolved,12
+BUG-2648,REL-1045,Fleet Tracking,Medium,20/11/2025,27/11/2025,Resolved,7
+BUG-2649,REL-1045,Fleet Tracking,Medium,18/11/2025,22/11/2025,Resolved,4
+BUG-2650,REL-1046,Driver Mobile App,Medium,01/12/2025,,Open,
+BUG-2651,REL-1046,Driver Mobile App,Low,27/11/2025,09/12/2025,Resolved,12
+BUG-2652,REL-1046,Driver Mobile App,Medium,03/12/2025,09/12/2025,Resolved,6
+BUG-2653,REL-1046,Driver Mobile App,High,03/12/2025,05/12/2025,Resolved,2
+BUG-2654,REL-1046,Driver Mobile App,Low,01/12/2025,14/12/2025,Resolved,13
+BUG-2655,REL-1046,Driver Mobile App,Medium,24/11/2025,01/12/2025,Resolved,7
+BUG-2656,REL-1046,Driver Mobile App,Medium,02/12/2025,07/12/2025,Resolved,5
+BUG-2657,REL-1046,Driver Mobile App,Medium,25/11/2025,,Open,
+BUG-2658,REL-1046,Driver Mobile App,Medium,03/12/2025,08/12/2025,Resolved,5
+BUG-2659,REL-1046,Driver Mobile App,Critical,29/11/2025,29/11/2025,Resolved,0
+BUG-2660,REL-1046,Driver Mobile App,Medium,29/11/2025,05/12/2025,Resolved,6
+BUG-2661,REL-1046,Driver Mobile App,High,24/11/2025,24/11/2025,Resolved,0
+BUG-2662,REL-1046,Driver Mobile App,High,27/11/2025,,Open,
+BUG-2663,REL-1046,Driver Mobile App,Low,03/12/2025,06/12/2025,Resolved,3
+BUG-2664,REL-1046,Driver Mobile App,Low,30/11/2025,10/12/2025,Resolved,10
+BUG-2665,REL-1046,Driver Mobile App,Medium,03/12/2025,07/12/2025,Resolved,4
+BUG-2666,REL-1046,Driver Mobile App,Medium,25/11/2025,,Open,
+BUG-2667,REL-1046,Driver Mobile App,Medium,03/12/2025,13/12/2025,Resolved,10
+BUG-2668,REL-1046,Driver Mobile App,Medium,30/11/2025,05/12/2025,Resolved,5
+BUG-2669,REL-1047,Admin Web Dashboard,Medium,06/12/2025,12/12/2025,Resolved,6
+BUG-2670,REL-1047,Admin Web Dashboard,Low,10/12/2025,24/12/2025,Resolved,14
+BUG-2671,REL-1047,Admin Web Dashboard,Critical,10/12/2025,11/12/2025,Resolved,1
+BUG-2672,REL-1047,Admin Web Dashboard,High,05/12/2025,07/12/2025,Resolved,2
+BUG-2673,REL-1047,Admin Web Dashboard,Medium,10/12/2025,24/12/2025,Resolved,14
+BUG-2674,REL-1047,Admin Web Dashboard,Medium,04/12/2025,06/12/2025,Resolved,2
+BUG-2675,REL-1047,Admin Web Dashboard,Low,01/12/2025,04/12/2025,Resolved,3
+BUG-2676,REL-1047,Admin Web Dashboard,Low,04/12/2025,12/12/2025,Resolved,8
+BUG-2677,REL-1047,Admin Web Dashboard,Medium,01/12/2025,05/12/2025,Resolved,4
+BUG-2678,REL-1047,Admin Web Dashboard,High,10/12/2025,12/12/2025,Resolved,2
+BUG-2679,REL-1047,Admin Web Dashboard,Low,05/12/2025,,Open,
+BUG-2680,REL-1047,Admin Web Dashboard,Medium,08/12/2025,15/12/2025,Resolved,7
+BUG-2681,REL-1047,Admin Web Dashboard,Medium,10/12/2025,15/12/2025,Resolved,5
