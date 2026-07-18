@@ -19,13 +19,16 @@ Average of ~14 bugs per release; Critical bugs resolved in ~1 day on average vs.
 Customer satisfaction rose from ~3.1/5 to ~4.3/5 over the year
 
 ### Screenshot
-<img width="678" height="365" alt="image" src="https://github.com/user-attachments/assets/a2eb08de-bd06-44db-8190-86e60a5b53ec" />
+<img width="647" height="362" alt="image" src="https://github.com/user-attachments/assets/d96e0a8c-b762-4e14-931a-8d54fa3c6544" />
 
 ### View Interactive Dashboard
 https://www.loom.com/embed/bebe845a16ac4ad3a479a441c106a6b8
 
 ### Tools Used
-SQL (SQLite), Python (pandas, for data generation), Power BI Desktop, DAX
+#### SQL (SQLite)
+#### Python (pandas, for data generation)
+#### Power BI Desktop, 
+#### DAX
 
 ### Files
 #### generate_data.py — synthetic data generator
