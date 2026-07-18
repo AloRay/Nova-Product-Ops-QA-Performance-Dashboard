@@ -24,12 +24,12 @@ Customer satisfaction rose from ~3.1/5 to ~4.3/5 over the year
 ### View Interactive Dashboard
 https://www.loom.com/embed/bebe845a16ac4ad3a479a441c106a6b8
 
-## Tools Used
+### Tools Used
 SQL (SQLite), Python (pandas, for data generation), Power BI Desktop, DAX
 
-## Files
-generate_data.py — synthetic data generator
-releases.csv, bugs.csv, feedback.csv — raw data
-technova_product_ops.db — SQLite database
-sql_queries.sql — analysis queries
-Nova Product Ops & QA Performance Dashboard.pbix — Power BI file (open in Power BI Desktop)
+### Files
+#### generate_data.py — synthetic data generator
+#### releases.csv, bugs.csv, feedback.csv — raw data
+#### technova_product_ops.db — SQLite database
+#### sql_queries.sql — analysis queries
+#### Nova Product Ops & QA Performance Dashboard.pbix — Power BI file (open in Power BI Desktop)
